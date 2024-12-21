@@ -72,6 +72,9 @@ Aquest projecte està sota la llicència MIT. Consulta el fitxer `LICENSE` per m
 
 Desenvolupat amb [Bolt.new](https://bolt.new) per [Nuvol.cat](https://nuvol.cat)
 
+**Agraïments:**
+- [Diana Vidal](https://github.com/dvidaal) per la [Pull Request #1](https://github.com/socenpauriba/netflix-wrapped/pull/1): _"Estils canviats per descarregar imatge en format historia instagram"_.
+
 ---
 
 Fet amb ❤️ a Catalunya
