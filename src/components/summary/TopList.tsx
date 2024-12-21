@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 interface TopListProps {
   items: Array<{
@@ -16,9 +16,9 @@ export const TopList: React.FC<TopListProps> = ({ items }) => {
           <span className="text-lg md:text-xl text-gray-700">
             {index + 1}. {item.name}
           </span>
-          <span className="text-lg md:text-xl font-semibold text-[#E50914]">
-            {item.count} {item.label || 'vegades'}
-          </span>
+          <p className="text-lg md:text-xl font-semibold text-[#E50914]">
+            {item.count} {item.label || "vegades"}
+          </p>
         </div>
       ))}
     </div>
